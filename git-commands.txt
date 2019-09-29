@@ -20,4 +20,7 @@
 
 11) git diff // to see the diffrerence made in the files (git only shows changes to tracked files)
 
-12) 
+12) git add myfile.txt git-commands.txt  //  staged these two files
+      git  add -u                                    // staged all the tracked files
+
+13)git commit -a   // stage all the tracked files and commit    here -a stands for add means stage all the file 
