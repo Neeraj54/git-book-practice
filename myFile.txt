@@ -1,1 +1,2 @@
-myFile.txt
+myFile.txt 
+and modified now
