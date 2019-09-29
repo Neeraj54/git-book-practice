@@ -1,0 +1,21 @@
+1) git config --global user.name "jkfash"  //default active username
+ 
+2) git config --global user.email "fdsgafk@abd.com"   //default username@hostname
+
+3) git config --global color.ui "auto"
+
+4) git config --list    //list of git config
+
+5) git init  //initialization to be tracked by git
+
+6) git status   //status of your repository
+
+7) git commit -m "message of the commit" //here -m specifies that you are gonna give message to the commit
+
+8) git commit //window will prompt and ask for the commit message 
+
+9)git add . //it will tell git to track all the files in the current repository
+
+10) git add myfile.txt   //tell git to tack this file only
+
+11)  
